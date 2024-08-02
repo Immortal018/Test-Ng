@@ -9,7 +9,7 @@ public class NewTest {
 	public void demo() {
 		
 		for (int i = 1; i <=10 ; i++) {
-			System.out.println("Hello world vignesh");
+			System.out.println("Hello world vignesh oh yes im ok");
 		}
 		
 	}
